@@ -1,0 +1,15 @@
+This project covers:
+--------------------
+1. Webpack
+2. Babel
+3. CSS loading
+4. NavBar 
+5. Router
+***'someData' is passed from the main component(app.jsx) to the child(Contact.jsx)***
+***Routing programatically in 'Index.jsx' & 'ContactClas.jsx'
+
+npm install
+npm run build -> creates 'bundle.js' in 'public' folder
+npm start
+
+goto: "http://localhost:3000/"
